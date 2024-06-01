@@ -1,5 +1,8 @@
+## lang
 [![My Skills](https://skillicons.dev/icons?i=bash,css,html,js,md,mysql,py,regex,sqlite)](https://skillicons.dev)
+## framework
 [![My Skills](https://skillicons.dev/icons?i=angular,tailwind,react,redux)](https://skillicons.dev)
+## tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,nodejs,postman,vite,vscode,yarn)](https://skillicons.dev)
 
 <!--
