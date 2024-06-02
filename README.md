@@ -1,9 +1,9 @@
 ## lang
-[![My Skills](https://skillicons.dev/icons?i=bash,css,html,js,md,mysql,py,regex,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,html,js,md,mysql,py,regex,sqlite&theme=light)](https://skillicons.dev)
 ## framework
-[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,react,redux&theme=light)](https://skillicons.dev)
 ## tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,nodejs,npm,postman,vite,vscode,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,nodejs,npm,postman,vite,vscode,yarn&theme=light)](https://skillicons.dev)
 
 <!--
 **kittha/kittha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
