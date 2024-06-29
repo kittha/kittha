@@ -1,5 +1,5 @@
 ## lang
-[![My Skills](https://skillicons.dev/icons?i=bash,css,html,js,md,mysql,postgres,py,regex,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,html,js,md,mongodb,postgres,py,regex,sqlite&theme=light)](https://skillicons.dev)
 ## framework
 [![My Skills](https://skillicons.dev/icons?i=angular,tailwind,react&theme=light)](https://skillicons.dev)
 ## tools
